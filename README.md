@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Oskar!
-🔭 I'm currently working on **To-do App**<br>🌱 I’m currently learning **JavaScript and React**<br>
+🔭 I'm currently working on **To-do App**<br>🌱 I’m currently learning **JavaScript**<br>
 
 
 ## 🌐 Socials:
