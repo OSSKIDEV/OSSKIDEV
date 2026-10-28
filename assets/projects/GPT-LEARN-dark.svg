@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="220" viewBox="0 0 590 220" role="img" aria-label="GPT-LEARN: A course in Polish on how ChatGPT and AI work, and how to build your own AI tools. Six chapters in plain HTML, CSS and JavaScript.">
+<title>GPT-LEARN: A course in Polish on how ChatGPT and AI work, and how to build your own AI tools. Six chapters in plain HTML, CSS and JavaScript.</title>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+.blink { animation: blink 1.4s steps(1) infinite; } @keyframes blink { 50% { opacity: .2; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .typing-cover { display: none; } }
+</style>
+<rect x=".5" y=".5" width="589" height="219" rx="16" fill="#0e1322" stroke="#262a36"/>
+<g fill="#262a36"><rect x="22" y="14" width="10" height="6" rx="1.5"/><rect x="44.5" y="14" width="10" height="6" rx="1.5"/><rect x="67" y="14" width="10" height="6" rx="1.5"/><rect x="89.5" y="14" width="10" height="6" rx="1.5"/><rect x="112" y="14" width="10" height="6" rx="1.5"/><rect x="134.5" y="14" width="10" height="6" rx="1.5"/><rect x="157" y="14" width="10" height="6" rx="1.5"/><rect x="179.5" y="14" width="10" height="6" rx="1.5"/><rect x="202" y="14" width="10" height="6" rx="1.5"/><rect x="224.5" y="14" width="10" height="6" rx="1.5"/><rect x="247" y="14" width="10" height="6" rx="1.5"/><rect x="269.5" y="14" width="10" height="6" rx="1.5"/><rect x="292" y="14" width="10" height="6" rx="1.5"/><rect x="314.5" y="14" width="10" height="6" rx="1.5"/><rect x="337" y="14" width="10" height="6" rx="1.5"/><rect x="359.5" y="14" width="10" height="6" rx="1.5"/><rect x="382" y="14" width="10" height="6" rx="1.5"/><rect x="404.5" y="14" width="10" height="6" rx="1.5"/><rect x="427" y="14" width="10" height="6" rx="1.5"/><rect x="449.5" y="14" width="10" height="6" rx="1.5"/><rect x="472" y="14" width="10" height="6" rx="1.5"/><rect x="494.5" y="14" width="10" height="6" rx="1.5"/><rect x="517" y="14" width="10" height="6" rx="1.5"/><rect x="539.5" y="14" width="10" height="6" rx="1.5"/><rect x="562" y="14" width="10" height="6" rx="1.5"/></g>
+<line x1="0" y1="32" x2="590" y2="32" stroke="#262a36"/>
+<text class="mono" x="28" y="56" font-size="12" letter-spacing="2" fill="#9399a9">CLIP 01</text>
+<circle cx="516.8" cy="51" r="5" fill="#e34c26"/>
+<text class="mono" x="562" y="56" font-size="13" text-anchor="end" fill="#9399a9">HTML</text>
+<text x="28" y="96" font-size="26" font-weight="700" fill="#e7e7e2">GPT-LEARN</text>
+<text x="28" y="130" font-size="15" fill="#9399a9">A course in Polish on how ChatGPT and AI work, and how to</text><text x="28" y="152" font-size="15" fill="#9399a9">build your own AI tools. Six chapters in plain HTML, CSS and</text><text x="28" y="174" font-size="15" fill="#9399a9">JavaScript.</text>
+<text class="mono" x="28" y="195" font-size="12" fill="#9399a9">Updated Jun 2026</text>
+
+</svg>

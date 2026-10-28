@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="48" viewBox="0 0 168 48" role="img" aria-label="DaVinci Resolve, Adobe Lightroom, Adobe Photoshop">
+<title>DaVinci Resolve, Adobe Lightroom, Adobe Photoshop</title>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .typing-cover { display: none; } }
+</style>
+<linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3c142"/><stop offset="0.5" stop-color="#e5262e"/><stop offset="1" stop-color="#3d8de8"/></linearGradient><g><title>DaVinci Resolve</title><rect x="0" width="48" height="48" rx="11" fill="#1b1e27"/>
+<text x="24" y="32" font-size="21" font-weight="700" text-anchor="middle" fill="url(#g0)">Dr</text></g>
+<g><title>Adobe Lightroom</title><rect x="60" width="48" height="48" rx="11" fill="#001e36"/>
+<text x="84" y="32" font-size="21" font-weight="700" text-anchor="middle" fill="#31a8ff">Lr</text></g>
+<g><title>Adobe Photoshop</title><rect x="120" width="48" height="48" rx="11" fill="#001e36"/>
+<text x="144" y="32" font-size="21" font-weight="700" text-anchor="middle" fill="#31a8ff">Ps</text></g>
+</svg>

@@ -1,17 +1,75 @@
-# 👋 Hi, I'm Oskar!
-🔭 I'm currently working on **To-do App**<br>🌱 I’m currently learning **JavaScript**<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Oskar Michalski: between code and camera. Front-end, video, photo." width="100%">
+</picture>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/oskar-michalski2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://instagram.com/osskidev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@osskidev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.youtube.com/channel/UCpD66tEhO5FUlaKXhJN49gw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:ooskar.mich@gmail.com"><img src="https://img.shields.io/badge/E--mail-14161D?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@osskidev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@osskidev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCpD66tEhO5FUlaKXhJN49gw) 
+## Hi, I'm Oskar
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OSSKIDEV&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OSSKIDEV&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build websites, shoot and edit short-form video, and take photographs. I hold the Polish **INF.02** and **INF.03** IT qualifications, and my day job is in international freight forwarding.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OSSKIDEV&limit=5&theme=radical&combine_all_yearly_contributions=true)
+- 🎬 **Now:** an interactive CV site with Three.js, GSAP and an Express admin panel
+- 🌱 **Learning:** modern JavaScript, animation on the web, 3D in the browser
+- 🤝 **Open to:** junior front-end roles and video commissions
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>&lt;/&gt; Code</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Ctailwind%2Cmysql%2Cgit%2Cvscode%2Clinux%2Cwindows%2Cfigma%2Cnotion&perline=6&theme=dark">
+        <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Ctailwind%2Cmysql%2Cgit%2Cvscode%2Clinux%2Cwindows%2Cfigma%2Cnotion&perline=6&theme=light" alt="HTML, CSS, JavaScript, React, Tailwind CSS, MySQL, Git, VS Code, Linux, Windows, Figma, Notion">
+      </picture>
+      <p>Hand-written HTML, CSS and JavaScript, on top of systems and networking fundamentals.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>● Camera</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/kit-dark.svg">
+        <img src="assets/kit-light.svg" alt="DaVinci Resolve, Adobe Lightroom, Adobe Photoshop">
+      </picture>
+      <p>Vertical video from shoot to delivery: filming, editing and colour in DaVinci Resolve, cut for Reels, TikTok and Shorts.</p>
+    </td>
+  </tr>
+</table>
+
+## Projects
+
+<!-- projects:start -->
+<p align="center">
+<a href="https://github.com/OSSKIDEV/GPT-LEARN"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/GPT-LEARN-dark.svg">
+  <img src="assets/projects/GPT-LEARN-light.svg" alt="GPT-LEARN: A course in Polish on how ChatGPT and AI work, and how to build your own AI tools. Six chapters in plain HTML, CSS and JavaScript." width="49%">
+</picture></a>
+<a href="https://github.com/OSSKIDEV/Weather-app"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/Weather-app-dark.svg">
+  <img src="assets/projects/Weather-app-light.svg" alt="Weather-app: My first front-end app: search for any city and get the current weather from the OpenWeather API." width="49%">
+</picture></a>
+<a href="https://github.com/OSSKIDEV/To-do_app"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/To-do_app-dark.svg">
+  <img src="assets/projects/To-do_app-light.svg" alt="To-do_app: A task list in plain JavaScript. Add, tick off and delete tasks; the list is saved in localStorage." width="49%">
+</picture></a>
+<a href="https://github.com/OSSKIDEV/Password-Generator"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/Password-Generator-dark.svg">
+  <img src="assets/projects/Password-Generator-light.svg" alt="Password-Generator: Generates a strong random password in one click and copies it to the clipboard." width="49%">
+</picture></a>
+</p>
+
+<p align="center"><b>Live demos:</b> <a href="https://osskidev.github.io/Weather-app/">Weather-app</a> · <a href="https://osskidev.github.io/To-do_app/">To-do_app</a></p>
+<!-- projects:end -->
+
+## Timeline
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img src="assets/timeline-light.svg" alt="My GitHub activity over the last 12 months and the languages in my projects" width="100%">
+</picture>
+
+<sub>Header, project cards and timeline are generated by <a href="scripts/build.mjs">scripts/build.mjs</a> and refreshed every day by GitHub Actions.</sub>

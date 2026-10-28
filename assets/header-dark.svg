@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Oskar Michalski: between code and camera">
+<title>Oskar Michalski: between code and camera</title>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+
+.tc1060 { animation: tc1060 600s steps(10) infinite; } @keyframes tc1060 { to { transform: translateY(-240px); } }
+.tc1082 { animation: tc1082 60s steps(6) infinite; } @keyframes tc1082 { to { transform: translateY(-144px); } }
+.tc1093 { animation: tc1093 10s steps(10) infinite; } @keyframes tc1093 { to { transform: translateY(-240px); } }
+.tc1114 { animation: tc1114 1s steps(25) infinite; } @keyframes tc1114 { to { transform: translateY(-600px); } }
+.blink { animation: blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+.typing-cover { transform-box: fill-box; transform-origin: right center; animation: untype 2.2s steps(24) .5s forwards; }
+@keyframes untype { to { transform: scaleX(0); } }
+.caret { animation: caret 2.2s steps(24) .5s forwards, blink 1s steps(1) 2.7s infinite; }
+@keyframes caret { to { transform: translateX(489.59999999999997px); } }
+.focus { transform-box: fill-box; transform-origin: center; stroke: #93a3b8; animation: hunt 1.6s ease-out .3s both; }
+@keyframes hunt { 0% { transform: scale(1.3); } 45% { transform: scale(.9); } 70% { transform: scale(1.06); } 99% { stroke: #93a3b8; } 100% { transform: scale(1); stroke: #3fb950; } }
+.glyph { animation: sharpen 1.6s ease-out .3s both; }
+@keyframes sharpen { from { opacity: .25; } to { opacity: 1; } }
+.lvl-a, .lvl-b { transform-box: fill-box; transform-origin: bottom; }
+.lvl-a { animation: lvl .9s ease-in-out infinite alternate; }
+.lvl-b { animation: lvl 1.3s ease-in-out .2s infinite alternate; }
+@keyframes lvl { from { transform: scaleY(.25); } to { transform: scaleY(.8); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .typing-cover { display: none; } }
+</style>
+<defs>
+<clipPath id="tc"><rect x="1015.2" y="52" width="122.79999999999998" height="24"/></clipPath>
+<linearGradient id="lvl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e5262e"/><stop offset=".3" stop-color="#e3b341"/><stop offset=".55" stop-color="#3fb950"/></linearGradient>
+</defs>
+<rect width="1200" height="340" rx="18" fill="#07090f"/>
+<g stroke="#93a3b8" stroke-opacity=".12" stroke-dasharray="2 6"><line x1="400" y1="28" x2="400" y2="312"/><line x1="800" y1="28" x2="800" y2="312"/><line x1="28" y1="113.33333333333333" x2="1172" y2="113.33333333333333"/><line x1="28" y1="226.66666666666666" x2="1172" y2="226.66666666666666"/></g>
+<path d="M28 68V28H68" fill="none" stroke="#93a3b8" stroke-width="2"/><path d="M1172 68V28H1132" fill="none" stroke="#93a3b8" stroke-width="2"/><path d="M28 272V312H68" fill="none" stroke="#93a3b8" stroke-width="2"/><path d="M1172 272V312H1132" fill="none" stroke="#93a3b8" stroke-width="2"/>
+<circle class="blink" cx="66" cy="64" r="7" fill="#e5262e"/>
+<text class="mono" x="82" y="70" font-size="16" font-weight="700" fill="#e7e7e2">REC</text>
+<text class="mono" x="134" y="70" font-size="14" fill="#9399a9">OSSKI · CAM A</text>
+<text class="mono" x="1017.2" y="70" font-size="18" fill="#e7e7e2">00:0</text><text class="mono" x="1071.2" y="70" font-size="18" fill="#e7e7e2">:</text><text class="mono" x="1103.6" y="70" font-size="18" fill="#e7e7e2">:</text><g clip-path="url(#tc)"><g class="tc1060"><text class="mono" x="1060.4" y="70" font-size="18" fill="#e7e7e2">0</text><text class="mono" x="1060.4" y="94" font-size="18" fill="#e7e7e2">1</text><text class="mono" x="1060.4" y="118" font-size="18" fill="#e7e7e2">2</text><text class="mono" x="1060.4" y="142" font-size="18" fill="#e7e7e2">3</text><text class="mono" x="1060.4" y="166" font-size="18" fill="#e7e7e2">4</text><text class="mono" x="1060.4" y="190" font-size="18" fill="#e7e7e2">5</text><text class="mono" x="1060.4" y="214" font-size="18" fill="#e7e7e2">6</text><text class="mono" x="1060.4" y="238" font-size="18" fill="#e7e7e2">7</text><text class="mono" x="1060.4" y="262" font-size="18" fill="#e7e7e2">8</text><text class="mono" x="1060.4" y="286" font-size="18" fill="#e7e7e2">9</text></g><g class="tc1082"><text class="mono" x="1082.0" y="70" font-size="18" fill="#e7e7e2">0</text><text class="mono" x="1082.0" y="94" font-size="18" fill="#e7e7e2">1</text><text class="mono" x="1082.0" y="118" font-size="18" fill="#e7e7e2">2</text><text class="mono" x="1082.0" y="142" font-size="18" fill="#e7e7e2">3</text><text class="mono" x="1082.0" y="166" font-size="18" fill="#e7e7e2">4</text><text class="mono" x="1082.0" y="190" font-size="18" fill="#e7e7e2">5</text></g><g class="tc1093"><text class="mono" x="1092.8" y="70" font-size="18" fill="#e7e7e2">0</text><text class="mono" x="1092.8" y="94" font-size="18" fill="#e7e7e2">1</text><text class="mono" x="1092.8" y="118" font-size="18" fill="#e7e7e2">2</text><text class="mono" x="1092.8" y="142" font-size="18" fill="#e7e7e2">3</text><text class="mono" x="1092.8" y="166" font-size="18" fill="#e7e7e2">4</text><text class="mono" x="1092.8" y="190" font-size="18" fill="#e7e7e2">5</text><text class="mono" x="1092.8" y="214" font-size="18" fill="#e7e7e2">6</text><text class="mono" x="1092.8" y="238" font-size="18" fill="#e7e7e2">7</text><text class="mono" x="1092.8" y="262" font-size="18" fill="#e7e7e2">8</text><text class="mono" x="1092.8" y="286" font-size="18" fill="#e7e7e2">9</text></g><g class="tc1114"><text class="mono" x="1114.4" y="70" font-size="18" fill="#e7e7e2">00</text><text class="mono" x="1114.4" y="94" font-size="18" fill="#e7e7e2">01</text><text class="mono" x="1114.4" y="118" font-size="18" fill="#e7e7e2">02</text><text class="mono" x="1114.4" y="142" font-size="18" fill="#e7e7e2">03</text><text class="mono" x="1114.4" y="166" font-size="18" fill="#e7e7e2">04</text><text class="mono" x="1114.4" y="190" font-size="18" fill="#e7e7e2">05</text><text class="mono" x="1114.4" y="214" font-size="18" fill="#e7e7e2">06</text><text class="mono" x="1114.4" y="238" font-size="18" fill="#e7e7e2">07</text><text class="mono" x="1114.4" y="262" font-size="18" fill="#e7e7e2">08</text><text class="mono" x="1114.4" y="286" font-size="18" fill="#e7e7e2">09</text><text class="mono" x="1114.4" y="310" font-size="18" fill="#e7e7e2">10</text><text class="mono" x="1114.4" y="334" font-size="18" fill="#e7e7e2">11</text><text class="mono" x="1114.4" y="358" font-size="18" fill="#e7e7e2">12</text><text class="mono" x="1114.4" y="382" font-size="18" fill="#e7e7e2">13</text><text class="mono" x="1114.4" y="406" font-size="18" fill="#e7e7e2">14</text><text class="mono" x="1114.4" y="430" font-size="18" fill="#e7e7e2">15</text><text class="mono" x="1114.4" y="454" font-size="18" fill="#e7e7e2">16</text><text class="mono" x="1114.4" y="478" font-size="18" fill="#e7e7e2">17</text><text class="mono" x="1114.4" y="502" font-size="18" fill="#e7e7e2">18</text><text class="mono" x="1114.4" y="526" font-size="18" fill="#e7e7e2">19</text><text class="mono" x="1114.4" y="550" font-size="18" fill="#e7e7e2">20</text><text class="mono" x="1114.4" y="574" font-size="18" fill="#e7e7e2">21</text><text class="mono" x="1114.4" y="598" font-size="18" fill="#e7e7e2">22</text><text class="mono" x="1114.4" y="622" font-size="18" fill="#e7e7e2">23</text><text class="mono" x="1114.4" y="646" font-size="18" fill="#e7e7e2">24</text></g></g>
+<text class="mono" x="72" y="118" font-size="14" letter-spacing="3" fill="#9399a9">HELLO, I'M</text>
+<text x="69" y="178" font-size="66" font-weight="800" letter-spacing="1" fill="#e7e7e2">OSKAR MICHALSKI</text>
+<text class="mono" x="72" y="236" font-size="34" xml:space="preserve"><tspan fill="#e7e7e2">Between </tspan><tspan fill="#93a3b8">code</tspan><tspan fill="#e7e7e2"> and </tspan><tspan fill="#e5262e">camera</tspan><tspan fill="#e7e7e2">.</tspan></text>
+<rect class="typing-cover" x="70" y="202" width="495.59999999999997" height="46" fill="#07090f"/>
+<rect class="caret" x="72" y="206" width="17" height="34" fill="#e5262e"/>
+<text x="72" y="300" font-size="14" font-weight="600" letter-spacing="3" fill="#9399a9">FRONT-END  ·  VIDEO  ·  PHOTO</text>
+<g class="focus"><path d="M894 126V102H918" fill="none" stroke-width="2.5"/><path d="M1026 126V102H1002" fill="none" stroke-width="2.5"/><path d="M894 210V234H918" fill="none" stroke-width="2.5"/><path d="M1026 210V234H1002" fill="none" stroke-width="2.5"/></g>
+<text class="mono glyph" x="960" y="182" font-size="44" text-anchor="middle" fill="#93a3b8">&lt;/&gt;</text>
+<text class="mono" x="960" y="260" font-size="12" letter-spacing="2" text-anchor="middle" fill="#9399a9">AF-C</text>
+<rect x="1104" y="110" width="6" height="150" rx="1" fill="#262a36"/>
+<rect class="lvl-a" x="1104" y="110" width="6" height="150" rx="1" fill="url(#lvl)"/><rect x="1116" y="110" width="6" height="150" rx="1" fill="#262a36"/>
+<rect class="lvl-b" x="1116" y="110" width="6" height="150" rx="1" fill="url(#lvl)"/>
+<text class="mono" x="1136" y="300" font-size="13" text-anchor="end" fill="#9399a9">4K  25P  ISO 100  f/2.8  1/50</text>
+</svg>
