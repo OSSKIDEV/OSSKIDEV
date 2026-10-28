@@ -361,7 +361,7 @@ function timeline(t, days, s, repoCount) {
   const clips = weeks.map((w, i) => {
     if (!w?.count) return '';
     const level = Math.min(3, Math.floor((w.count / max) * 4));
-    return `<rect x="${(x0 + i * ww + 1).toFixed(1)}" y="122" width="${(ww - 2).toFixed(1)}" height="40" rx="4" fill="${t.heat[level]}"><title>${w.count} contributions, week of ${w.start.toISOString().slice(0, 10)}</title></rect>`;
+    return `<rect x="${(x0 + i * ww + 1).toFixed(1)}" y="122" width="${(ww - 2).toFixed(1)}" height="40" rx="4" fill="${t.heat[level]}"><title>${w.count} contribution${w.count === 1 ? '' : 's'}, week of ${w.start.toISOString().slice(0, 10)}</title></rect>`;
   }).join('');
 
   let lx = x0;
